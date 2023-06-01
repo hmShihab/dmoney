@@ -1,4 +1,4 @@
-# dmoney
+# API automation
 
 ## Project Summary:
 This project has automate user API from postman using newman
@@ -14,6 +14,9 @@ This project has automate user API from postman using newman
 - ``` git clone ```
 - ``` npm i ```
 - ``` npm test ```
+
+##Test case:
+https://docs.google.com/spreadsheets/d/1cCRKwwZ8Rito8QJo15N5Yd1OGJzLchE2yz5oU6GKzxc/edit?usp=sharing
 
 
 ## API Documentation:
